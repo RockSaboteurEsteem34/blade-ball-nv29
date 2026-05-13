@@ -1,4 +1,4 @@
-#  
+#  automatic Script for blade ball offers the most advanced blade ball Script, with auto-sell and no cooldown. Perfect for dominating any match.
 
 
 
